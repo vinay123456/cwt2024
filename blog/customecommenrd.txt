@@ -1,0 +1,4 @@
+ PHP artisan serve 
+ 
+ 1) php artisan make:controller CustomAuthController
+mylaravel
